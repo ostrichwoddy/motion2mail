@@ -25,7 +25,7 @@ Ensure that the SMTP credentials are configured as environment variables on the 
 ## Demo
 
 ### Live Motion Detection
-![Live motion detection with bounding boxes](screenshots/live_detection.png)
+![Live motion detection with bounding boxes](screenshots/object.png)
 
 ### Email Alert
-![Email alert with attached image](screenshots/email_alert.png)
+![Email alert with attached image](screenshots/demomail.png)
